@@ -470,7 +470,7 @@
                     <use href="../images/icons.svg#icon-close"></use>
                 </svg>
             </button>
-            <div class="form">
+            <div class="form-div">
                 <p class="form-titel">Leave your contacts and we will call you back</p>
                 <form action="" class="rewu-form">
                     <div class="form-stile">
@@ -526,18 +526,23 @@
                             placeholder="Text input"></textarea>
                     </div>
                     <div class="form-chekbox">
-                        <input type="checkbox" class="form-user-privacy" id="user_privacy" name="user-privacy">
-                        <label for="user-privacy" class="form-lable">
+                        
+                        <input type="checkbox" class="form-user-privacy visually-hidden" id="user-privacy" name="user_privacy">
+                        <label for="user-privacy" class="user-privacy-label">
+                            <span class="checkbox-custome">
+                                <svg class="user-privacy-label-icon" width="10" height="8">
+                                    <use href="../images/icons.svg#icon-checkmarc"></use>
+                                </svg>
+                            </span>
                             I accept the terms and conditions of the
-                            <a href="">Privacy Policy</a>
-                            <span class="checkbox-custome"></span>
+                            <a class="user-privacy-label-link" href="">Privacy Policy</a>
                         </label>
                     </div>
 
 
 
             </div>
-            <button class="btn-submit" type="submit">Send</button>
+            <button class="btn-submit" type="submit"><span class="btn-submit-text">Send</span></button>
             </form>
         </div>
 

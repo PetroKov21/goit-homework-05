@@ -613,6 +613,11 @@ padding-bottom: 24px; */
  }
 
 
+ .email-form-footer {
+    display: flex;
+    gap: 24px;
+ }
+
  .email-form-div {
      margin-left: 80px;
  }

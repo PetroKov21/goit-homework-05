@@ -919,6 +919,8 @@ padding-bottom: 24px; */
 
  }
 
+
+
  .form-user-privacy:checked+.user-privacy-label>.checkbox-custome {
      background-color: #404BBF;
      fill: #F4F4FD;

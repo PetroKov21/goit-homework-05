@@ -731,9 +731,6 @@ padding-bottom: 24px; */
 
 
  /* ================= /BACDROP ================= */
- .form-div {
-     margin-bottom: 24px;
- }
 
  /* ================= MODAL-WINDOW ================= */
  .modal-window {
@@ -798,12 +795,18 @@ padding-bottom: 24px; */
 
  }
 
+
+ .form-stile{
+    margin-bottom: 8px;
+ }
+
+
  .form-lable {
      display: block;
      color: #8E8F99;
      font-size: 12px;
      font-weight: 400;
-     line-height: 1.7;
+     line-height: 1.17;
      /* 116.667% */
      letter-spacing: 0.04em;
      margin-bottom: 4px;

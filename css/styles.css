@@ -3,7 +3,7 @@
      font-family: 'Roboto', sans-serif;
      color: #434455;
      background-color: #FFF;
-     width: 1440px;
+     
      height: 3300px;
      margin: auto;
  }
@@ -207,7 +207,7 @@ padding-bottom: 24px; */
  /* SECTION ONE */
  /* hero backgroundg */
  .hero {
-     max-width: 1440px;
+    
      background: #2E2F42;
      background-repeat: no-repeat;
      background-position: center;

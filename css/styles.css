@@ -931,7 +931,6 @@ padding-bottom: 24px; */
 
  .form-user-privacy:focus+.user-privacy-label>.checkbox-custome {
      border: 1px solid #4D5AE5;
-     border: none;
 
  }
 
